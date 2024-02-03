@@ -27,6 +27,16 @@ body {
     gap: 18px;
 }
 
-.side_nav div:hover {
+.side_nav a:hover {
     border-bottom: 1px solid white;
+}
+
+.side_nav a {
+    text-decoration: none;
+    color: #E5E7EB;
+}
+
+#contact_header {
+    font-size: 33em;
+    color: aquamarine;
 }
